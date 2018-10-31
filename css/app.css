@@ -26,7 +26,7 @@ a {
 }
 
 a:hover{
-  color: yellow;
+  color: #ffff00;
 }
 
 ul {
@@ -68,7 +68,7 @@ h5 {
 h1 {
   font-family:'Anonymouse Pro', monospace;
   font-size: 40px;
-  color:yellow;
+  color:#ffff00;
 }
 
 *{
@@ -154,7 +154,7 @@ opacity: .1;
   font-size: 75px;
   position: relative;
   width: 400px;
-  top: 35%;
+  top: 34%;
   left: 40%;
 }
 
@@ -305,7 +305,7 @@ opacity: .1;
   content: attr(data-text);
   position: absolute;
   left: -2px;
-  text-shadow: 2px yellow;
+  text-shadow: 2px #ffff00;
   top: 0;
   color: #fff;
   background: ##aeb6cf;
@@ -330,7 +330,7 @@ opacity: .1;
 
 .sprite {
   top: 30%;
-  left: 45.5%;
+  left: 41%;
   position: absolute;
   width: 270px;
   height: 70px;
