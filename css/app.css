@@ -66,14 +66,12 @@ h5 {
 }
 
 h1 {
-  font-family:'Anonymouse Pro', monospace;
+  font-family: monospace;
   font-size: 40px;
   color:#ffff00;
 }
 
-*{
-  padding:0px;
-  margin:0px;
+
 }
 button:focus{
   outline:none;
@@ -129,18 +127,17 @@ div.body p{
   padding-left: 15px;
   font-size:11px;
 }
-div.body button{
+.button{;
   font-size:11px;
-  outline:1px solid #000000 #c3c3c3;
+  outline:1pt solid #000000 #c3c3c3;
   background:#C0C0C0;
-  border-width:1px;
+  border-width:1pt;
   border-style:solid;
   border-color:#808080;
   padding:4px 15px;
   margin:20px 100px 3px;
   display:block;
-  position:relative;
-  bottom:0px;
+  position:relative;;
 }
 
 div.body button: hover{
